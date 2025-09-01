@@ -20,3 +20,7 @@ It controls the speed of an AC motor using a VFD (Variable Frequency Drive) and 
 ---
 
 **Author:**Payam
+
+![CPU Siemens](./images/cpu1.jpg)
+![Drive Siemens](./images/drive1.jpg)
+![Panel](./images/panel.jpg)
